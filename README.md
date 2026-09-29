@@ -55,13 +55,7 @@ This project presents an interactive HR Analytics Dashboard built in Power BI to
 
 📸 Dashboard Preview
 
-Upload a screenshot named "Dashboard_Screenshot.png" to this repository. GitHub will display it here when you add the image.
-
-🚀 Future Improvements
-
-- Add predictive attrition analysis using machine learning.
-- Connect the dashboard to a live database.
-- Include additional HR performance metrics and trends.
+Screenshot of Dashboard is uploaded
 
 👩‍💻 Author
 
