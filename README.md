@@ -57,9 +57,8 @@ This project presents an interactive HR Analytics Dashboard built in Power BI to
 
 Screenshot of Dashboard is uploaded
 
-👩‍💻 Author
+Conclusion:
+This dashboard helps understand employee attrition and workforce trends for better HR decision-making
 
-Lakshmipriya M
 
-If you found this project useful, feel free to ⭐ the repository.
 
